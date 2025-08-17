@@ -8,11 +8,6 @@ width =1000, src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a85280
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsuman0699&label=Profile%20views&color=0e75b6&style=flat" alt="gitsuman0699" /> </p>
 
-- 🔭 I’m currently working on **Meeemes App**
-
-- 🌱 I’m currently learning **BloC, Docker**
-
-- 🤝 I’m looking for help with **Flutter project with BloC**
 
 - 👨‍💻 All of my projects are available at [https://shranp75.wixsite.com/my-site-4](https://shranp75.wixsite.com/my-site-4)
 
