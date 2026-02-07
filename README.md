@@ -9,15 +9,13 @@ width =1000, src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a85280
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsuman0699&label=Profile%20views&color=0e75b6&style=flat" alt="gitsuman0699" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://shranp75.wixsite.com/my-site-4](https://shranp75.wixsite.com/my-site-4)
+- 👨‍💻 All of my projects are available at [https://shranp75.wixsite.com/my-site-4](https://suman-poudyal-portfolio.vercel.app/#projects)
 
 - 📝 I regularly write articles on [https://medium.com/@shranp75](https://medium.com/@shranp75)
 
 - 💬 Ask me about **Flutter, Mobile App Development**
 
 - 📫 How to reach me **shranp75@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SoHBvf-AEALsziQX0LrjmTKOAJGZyrVZ/view](https://drive.google.com/file/d/1SoHBvf-AEALsziQX0LrjmTKOAJGZyrVZ/view)
 
 - ⚡ Fun fact **I think I'm funny**
 
