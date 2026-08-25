@@ -8,8 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+Agentic+AI+and+RAG+Pipelines;4.5%2B+Years+in+Production+Software;Multi-time+AI+Hackathon+Winner+%F0%9F%8F%86;MCP+%7C+Vector+Search+%7C+LLM+Orchestration;Ex-Flutter+Dev+%E2%86%92+AI%2FData+Engineer&font=Fira+Code&center=true&width=650&height=45&color=00D9FF&vCenter=true&size=22&pause=1800" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=gitsuman0699&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
-
 </div>
 
 ---
