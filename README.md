@@ -1,36 +1,164 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQEo71nNGo7wNg/profile-displaybackgroundimage-shrink_350_1400/0/1707283417421?e=1717027200&v=beta&t=vu__mHPcpoSRqwaLHgw3_eav3FERyHIGACsC4HiuxPc)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Suman Poudyal</h1>
-<h3 align="center">An Enthusiast Flutter Developer from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Suman%20Kumar%20Poudyal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20%E2%86%92%20AI%20and%20Data%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 
-<img
-width =1000, src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+<a href="https://www.linkedin.com/in/suman-poudyal">
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsuman0699&label=Profile%20views&color=0e75b6&style=flat" alt="gitsuman0699" /> </p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+Agentic+AI+and+RAG+Pipelines;4.5%2B+Years+in+Production+Software;Multi-time+AI+Hackathon+Winner+%F0%9F%8F%86;MCP+%7C+Vector+Search+%7C+LLM+Orchestration;Ex-Flutter+Dev+%E2%86%92+AI%2FData+Engineer&font=Fira+Code&center=true&width=650&height=45&color=00D9FF&vCenter=true&size=22&pause=1800" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=gitsuman0699&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+### 👋 About Me
+
+I'm a Software Engineer with **4.5+ years** building scalable, production mobile applications — currently **transitioning into AI & Data Engineering**, learning hands-on by shipping real projects in hackathons. My recent work spans **agentic workflows, RAG pipelines, Model Context Protocol (MCP) servers, and vector databases**.
+
+- 🔭 Currently building autonomous agent systems, MCP servers & RAG pipelines
+- 🏆 Multi-time winner/finalist at AI hackathons (Airia, AI for Bharat, Devpost)
+- 🌱 Deepening skills in AWS Bedrock, Vertex AI, and multi-stage LLM orchestration
+- 💼 Open to **AI/Data Engineering** roles — let's talk!
+- 📫 Reach me at **suman.p0699@gmail.com**
+
+---
+
+### 🤖 AI & Agentic Systems
+
+<div align="center">
+
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logo=databricks&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-00D9FF?style=for-the-badge&logo=protocols.io&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-FF6B6B?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-4CAF50?style=for-the-badge&logo=robotframework&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FFB300?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,go,dart,html,css" />
+
+**Cloud & AI Runtimes**
+<br/>
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure AI](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker" />
+
+**Databases**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Frameworks & APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs,react" />
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+**DevOps & Quality**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,githubactions" />
+![TDD](https://img.shields.io/badge/TDD-4CAF50?style=flat-square&logo=testinglibrary&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured AI & Data Engineering Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 [Mnemosyne — Agentic Memory as a Service](https://devpost.com/software/mnemosyne-0pntbi)**
+<br/><sub>CockroachDB × AWS Hackathon</sub>
+
+Multi-tenant cognitive memory engine letting AI assistants persist & recall context across sessions and IDEs. Distributed vector search (CockroachDB `VECTOR(1024)`) + AWS Titan Embeddings V2 for sub-second semantic retrieval, with a 4-tier memory architecture and automated consolidation.
+
+`Python` `FastMCP` `CockroachDB` `AWS Bedrock` `Next.js 15` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ [ScopeGuard — Scope Drift Agent](https://devpost.com/software/scopeguard-smx10p)**
+<br/><sub>Slack Agent Builder Challenge</sub>
+
+Autonomous Slack agent that detects out-of-scope client requests against signed SOWs via a deterministic 3-step LLM pipeline (Intent → Drift Analysis → Change Request), with a standalone MCP server and full audit trail.
+
+`Node.js` `TypeScript` `MCP` `PostgreSQL` `Groq (Llama 3.1)` `Slack Bolt`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**👗 [Care & Wear — Multimodal AI Styling](https://devpost.com/software/care-wear)**
+<br/><sub>YouCam AI Hackathon</sub>
+
+Zero-dependency Node.js app orchestrating a 4-stage async AI diagnostic + virtual try-on pipeline. Maps 16 computer-vision metrics into structured styling advice with visual mask overlays.
+
+`Node.js (ESM)` `Computer Vision` `Vercel Serverless`
+
+</td>
+<td width="50%" valign="top">
+
+**📌 More on Devpost**
+<br/><sub>Active across multiple AI hackathons</sub>
+
+Ongoing experiments in agentic memory architectures, MCP tooling, and multimodal AI pipelines — check my Devpost profile for the full history and demos.
+
+[View Devpost Profile →](https://devpost.com/shranp75)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Hackathon Wins & Recognition
+
+| Achievement | Event |
+|---|---|
+| 🥈 **2nd Place + $1,000** | Airia AI Agents Hackathon (Devpost, 2026) — agentic prototype that became ScopeGuard |
+| 🏅 **Finalist** | AI for Bharat Hackathon (Hack2Skill, 2026) — AI dynamic pricing platform on AWS Bedrock |
+| 🎯 **Active Builder** | Devpost AI Hackathons — agentic memory, MCP tooling, multimodal pipelines |
+
+---
+
+### 💼 Professional Experience
+
+```text
+2024 — 2026   Flutter Developer @ Utah Tech Labs (Remote, USA)
+              Clean Architecture · BLoC · gRPC/Protobuf · 99% crash-free rate
+
+2022 — 2024   Flutter Developer @ Aseztak, Kolkata
+              E-commerce flows · REST/GraphQL · -30% load time · +18% add-to-cart
+
+2020 — 2021   Freelance Developer (Self-Employed)
+              Custom shopping apps for local retail during COVID-19 lockdown
+```
 
 
-- 👨‍💻 All of my projects are available at [https://suman-poudyal-portfolio.vercel.app/#projects](https://suman-poudyal-portfolio.vercel.app/#projects)
+### 🌐 Connect With Me
 
-- 📝 I regularly write articles on [https://medium.com/@shranp75](https://medium.com/@shranp75)
+<div align="center">
 
-- 💬 Ask me about **Flutter, Mobile App Development**
+<a href="https://linkedin.com/in/suman-poudyal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:suman.p0699@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/povsuman99" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://medium.com/@shranp75" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://suman-poudyal-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-- 📫 How to reach me **shranp75@gmail.com**
+</div>
 
-- ⚡ Fun fact **I think I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/povsuman99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="povsuman99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suman-poudyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-poudyal" height="30" width="40" /></a>
-<a href="https://medium.com/@shranp75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shranp75" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitsuman0699&show_icons=true&locale=en&layout=compact" alt="gitsuman0699" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitsuman0699&show_icons=true&locale=en" alt="gitsuman0699" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitsuman0699&" alt="gitsuman0699" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=100&section=footer" width="100%"/>
