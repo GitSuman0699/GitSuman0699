@@ -136,10 +136,10 @@ Ongoing experiments in agentic memory architectures, MCP tooling, and multimodal
 ### 💼 Professional Experience
 
 ```text
-2024 — 2026   Flutter Developer @ Utah Tech Labs (Remote, USA)
+2024 — 2026   Software Engineer @ Utah Tech Labs (Remote, USA)
               Clean Architecture · BLoC · gRPC/Protobuf · 99% crash-free rate
 
-2022 — 2024   Flutter Developer @ Aseztak, Kolkata
+2021 — 2024   Software Engineer @ Aseztak, Kolkata
               E-commerce flows · REST/GraphQL · -30% load time · +18% add-to-cart
 
 2020 — 2021   Freelance Developer (Self-Employed)
