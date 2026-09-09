@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-I'm a Software Engineer with **4.5+ years** building scalable, production mobile applications — currently **transitioning into AI & Data Engineering**, learning hands-on by shipping real projects in hackathons. My recent work spans **agentic workflows, RAG pipelines, Model Context Protocol (MCP) servers, and vector databases**.
+I'm a Software Engineer with **5 years** building scalable, production mobile applications — currently **transitioning into AI & Data Engineering**, learning hands-on by shipping real projects in hackathons. My recent work spans **agentic workflows, RAG pipelines, Model Context Protocol (MCP) servers, and vector databases**.
 
 - 🔭 Currently building autonomous agent systems, MCP servers & RAG pipelines
 - 🏆 Multi-time winner/finalist at AI hackathons (Airia, AI for Bharat, Devpost)
