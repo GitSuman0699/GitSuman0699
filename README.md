@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Suman%20Kumar%20Poudyal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20%E2%86%92%20AI%20and%20Data%20Engineering&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Suman%20Kumar%20Poudyal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Engineering%20and%20Applied%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/suman-poudyal">
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+Agentic+AI+and+RAG+Pipelines;4.5%2B+Years+in+Production+Software;Multi-time+AI+Hackathon+Winner+%F0%9F%8F%86;MCP+%7C+Vector+Search+%7C+LLM+Orchestration;Ex-Flutter+Dev+%E2%86%92+AI%2FData+Engineer&font=Fira+Code&center=true&width=650&height=45&color=00D9FF&vCenter=true&size=22&pause=1800" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Agentic+AI+and+RAG+Pipelines;5%2B+Years+in+Production+Software;Multi-time+AI+Hackathon+Winner+%F0%9F%8F%86;MCP+%7C+Vector+Search+%7C+LLM+Orchestration;Bridging+Production+Systems+with+AI&font=Fira+Code&center=true&width=650&height=45&color=00D9FF&vCenter=true&size=22&pause=1800" alt="Typing SVG" />
+</div>
 
 </div>
 
@@ -14,13 +16,13 @@
 
 ### 👋 About Me
 
-I'm a Software Engineer with **5 years** building scalable, production mobile applications — currently **transitioning into AI & Data Engineering**, learning hands-on by shipping real projects in hackathons. My recent work spans **agentic workflows, RAG pipelines, Model Context Protocol (MCP) servers, and vector databases**.
+I am a Software Engineer with over 5 years of industry experience architecting scalable, production-grade systems. My professional foundation is built on managing complex data flows, optimizing system architecture, and designing high-performance client-server communications. Currently, I am **specializing in AI & Data Engineering**, bridging the gap between theoretical models and production reality by shipping real-world projects in competitive hackathons. My recent work spans **agentic workflows, RAG pipelines, Model Context Protocol (MCP) servers, and vector databases**.
 
-- 🔭 Currently building autonomous agent systems, MCP servers & RAG pipelines
-- 🏆 Multi-time winner/finalist at AI hackathons (Airia, AI for Bharat, Devpost)
-- 🌱 Deepening skills in AWS Bedrock, Vertex AI, and multi-stage LLM orchestration
-- 💼 Open to **AI/Data Engineering** roles — let's talk!
-- 📫 Reach me at **suman.p0699@gmail.com**
+- 🔭 **Currently building:** Autonomous agent systems, MCP servers, and enterprise-grade RAG pipelines.
+- 🏆 **Milestones:** Multi-time winner & finalist at AI hackathons (Airia, AI for Bharat, Devpost).
+- 🌱 **Deepening skills in:** AWS Bedrock, Vertex AI, and multi-stage LLM orchestration.
+- 🎯 **Objective:** Preparing for advanced studies in Data Engineering & AI (DEAI) while tackling complex data challenges.
+- 📫 **Reach me at:** suman.p0699@gmail.com
 
 ---
 
