@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Suman%20Kumar%20Poudyal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Engineering%20and%20Applied%20AI&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/suman-poudyal">
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+Agentic+AI+and+RAG+Pipelines;5%2B+Years+in+Production+Software;Multi-time+AI+Hackathon+Winner+%F0%9F%8F%86;MCP+%7C+Vector+Search+%7C+LLM+Orchestration;Bridging+Production+Systems+with+AI&font=Fira+Code&center=true&width=650&height=45&color=00D9FF&vCenter=true&size=22&pause=1800" alt="Typing SVG" />
 </div>
